@@ -1,0 +1,4 @@
+The vending machine top module can be seen in the attached screenshots.The vending  machine has two money inputs for 25 cents and 1 dollar (100 cents). Here, the reader can assume that the actual machine has
+one input for coins. However, 25 cents and 1 dollar are differentiated by a mechanism. Hence, we see two inputs.  The user can select a product by its corresponding button. After the selection, the user should press the buy button to finalize the operation. The vending machine
+gives signal when a product goes out of stock. Then, it can be filled filed by  the corresponding tray and update the stock number by a button.The vending machine is capable of
+offering four different products. Each product tray can keep up to 15 items.Seven segement decoder code is also used in this project to display the items.
